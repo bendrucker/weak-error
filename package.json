@@ -1,0 +1,35 @@
+{
+  "name": "weak-error",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Weakmapped error event with a global capture hook",
+  "license": "MIT",
+  "repository": "bendrucker/weak-error",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "error",
+    "event",
+    "global",
+    "weakmap",
+    "weakmap-event"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "geval": "~2.1.1",
+    "individual": "~3.0.0",
+    "weakmap-event": "~1.0.0"
+  }
+}
