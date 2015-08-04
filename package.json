@@ -1,7 +1,7 @@
 {
   "name": "weak-error",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Weakmapped error event with a global capture hook",
   "license": "MIT",
   "repository": "bendrucker/weak-error",
