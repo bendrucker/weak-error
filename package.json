@@ -21,15 +21,15 @@
     "weakmap-event"
   ],
   "devDependencies": {
-    "standard": "^4.0.0",
+    "standard": "^12.0.1",
     "tape": "^4.0.0"
   },
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "geval": "~2.1.1",
+    "geval": "~2.2.0",
     "individual": "~3.0.0",
-    "weakmap-event": "~1.0.0"
+    "weakmap-event": "~2.0.7"
   }
 }
