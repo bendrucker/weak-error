@@ -1,4 +1,4 @@
-# weak-error [![Build Status](https://travis-ci.org/bendrucker/weak-error.svg?branch=master)](https://travis-ci.org/bendrucker/weak-error)
+# weak-error [![Build Status](https://travis-ci.org/bendrucker/weak-error.svg?branch=master)](https://travis-ci.org/bendrucker/weak-error) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/weak-error.svg)](https://greenkeeper.io/)
 
 > Weakmapped error event with a global capture hook
 
